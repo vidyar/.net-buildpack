@@ -3,3 +3,9 @@ language: ruby
 rvm:
   - 2.0.0
   - 1.9.3
+notifications:
+  email:
+    recipients:
+      - vidyac.raghav@gmail.com	
+    on_success: change 
+    on_failure: always
