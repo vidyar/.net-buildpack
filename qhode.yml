@@ -3,4 +3,4 @@ rvm:
   - 2.0.0
   - 1.9.3
 notifications:
-   campfire: [qhode1]:[99b2845783c6adf698c143927e45d11045c47804]@[572555]
+   campfire: qhode1:99b2845783c6adf698c143927e45d11045c47804@572555
