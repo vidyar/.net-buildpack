@@ -5,4 +5,5 @@ rvm:
 notifications:
   email:
       - vidyar@qhode.com
+      - vidya@shippable.com
   
